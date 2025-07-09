@@ -8,5 +8,5 @@ from 2016.
 
 ## Contributors
 
-- Daniel Gross (daniel@qpgmr.de)
-- Jon Paris (Jon.Paris@partner400.com)
+- [Jon Paris](Jon.Paris@partner400.com)
+- [Daniel Gross](daniel@qpgmr.de)

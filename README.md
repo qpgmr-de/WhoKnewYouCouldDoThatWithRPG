@@ -8,7 +8,7 @@ The basic idea is, to write the new "book" in the wiki section of this repositor
 and commit code snippets and examples into the repository itself.
 
 <p align="center" style="font-size: 150%;">
-<a href="https://github.com/qpgmr-de/WhoKnewYouCouldDoThatWithRPG/wiki">Start here at the Wiki</a>
+<a href="wiki">Start here at the Wiki</a>
 </p>
 
 Everyone is invited to contribute - contact me to be added as a collaborator.

@@ -4,12 +4,13 @@ A community approach to create a modern version of the
 [IBM Redbook "Who Knew You Could Do That with RPG IV?"](https://www.redbooks.ibm.com/redbooks/pdfs/sg245402.pdf)
 from 2016.
 
+<p align="center">
+<a href="../../wiki">Start here at the Wiki</a>
+<br/>
+</p>
+
 The basic idea is, to write the new "book" in the wiki section of this repository 
 and commit code snippets and examples into the repository itself.
-
-<p align="center" style="font-size: 150%;">
-<a href="wiki">Start here at the Wiki</a>
-</p>
 
 Everyone is invited to contribute - contact me to be added as a collaborator.
 
